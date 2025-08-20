@@ -32,6 +32,6 @@ Dashboard Preview
 <img width="1294" height="727" alt="Screenshot 2025-08-20 225231" src="https://github.com/user-attachments/assets/f9d0549e-030d-4369-adea-abdb98eb1730" />
 
 
-<img width="1302" height="725" alt="Screenshot 2025-08-20 225152" src="https://github.com/user-attachments/assets/37a424dd-d047-40ec-b002-18d7dbd56a23" />
+<img width="1341" height="756" alt="Screenshot 2025-08-21 000245" src="https://github.com/user-attachments/assets/d657f027-b65f-42fe-83c8-70a1550b1430" />
 
 
